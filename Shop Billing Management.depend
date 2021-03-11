@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1530262164 source:c:\users\siddhartha\desktop\bjet submitted cpp projects\shop billing management\main.cpp
+	<iostream>
+	<process.h>
+	<fstream>
+	<stdlib.h>
+
